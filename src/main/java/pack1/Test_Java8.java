@@ -27,6 +27,11 @@ public class Test_Java8 {
 	{
 		
 	}
+	
+	private static void test3()
+	{
+		System.out.println("");
+	}
 
 	private static void frequencyofCharacters() {
 		String st="Big black bug bit a big black dog on his big black nose";
