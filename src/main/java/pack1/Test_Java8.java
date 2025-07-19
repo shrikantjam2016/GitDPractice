@@ -24,6 +24,10 @@ public class Test_Java8 {
 		Map<Character, Long> frequency =  str.chars().mapToObj(c -> (char)c)
 	               .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 		System.out.println(frequency);
+		
+		System.out.println("Hello Git, this is message 1");
+		
+		System.out.println("From git x");
 	
 		
 	}
