@@ -16,6 +16,16 @@ public class Test_Java8 {
 	//	duplicateWords();
 		frequencyofWords();
 		frequencyofCharacters();
+		
+	}
+	
+	private static void test1()
+	{
+		
+	}
+	private static void test2()
+	{
+		
 	}
 
 	private static void frequencyofCharacters() {
